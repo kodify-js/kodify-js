@@ -11,9 +11,6 @@ I am a software developer focused on building engaging applications. While I may
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,react,nodejs,docker,mongodb,html,css,git,github,express,graphql&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
-🔹 **Public Repositories**: 8
-🔹 **Followers**: 9
-🔹 **Following**: 5
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kodify-js&show_icons=true&hide_title=true&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodify-js&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
