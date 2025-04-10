@@ -12,5 +12,5 @@ I am a software developer focused on building engaging applications. While I may
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kodify-js&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kodify-js&show_icons=true&hide_title=true&count_private=true&theme=radical&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodify-js&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
