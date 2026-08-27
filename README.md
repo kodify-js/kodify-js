@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm KODIFY, a passionate developer who loves crafting modern web applications and exploring innovative technologies. Let's connect and create something amazing together!
+I'm Aviral, a passionate developer who loves crafting modern web applications and exploring innovative technologies. Let's connect and create something amazing together!
 
 ## About Me
 
